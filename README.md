@@ -1,0 +1,2 @@
+# SamSungLab
+Demo JAVA Class
